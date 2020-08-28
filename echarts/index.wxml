@@ -1,0 +1,6 @@
+
+<block wx:for="{{list}}" wx:key="sbh">
+  <view style="height: 200px;width: 100%;">
+    <ec-canvas id="charts-{{item.sbh}}" canvas-id="charts-{{item.sbh}}" ec="{{ ec }}" bind:init="initCharts" force-use-old-canvas="true"></ec-canvas>
+  </view>
+</block>

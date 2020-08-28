@@ -1,0 +1,7 @@
+	<navigator url="/echarts/index" style="margin:50px">
+  点我进入echarts
+	</navigator>
+
+		<navigator url="/echarts2/index" style="margin:50px">
+  点我进入echarts2
+	</navigator>
